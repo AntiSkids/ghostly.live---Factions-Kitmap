@@ -1,0 +1,5 @@
+name: "HCFactions"
+version: "1.0"
+author: [EnzoL_, JavaPinq_]
+main: live.ghostly.hcfactions.FactionsPlugin
+depend: [Vault]
